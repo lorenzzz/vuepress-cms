@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-cms",
+  "version": "1.0.0",
+  "description": "Vuepress & Netlify CMS with Identity enabled",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^0.9.0"
+  }
+}
